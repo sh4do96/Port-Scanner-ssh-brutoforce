@@ -1,5 +1,5 @@
-# Port-Scanner-ssh-brutoforce
-Port Scanner + ssh brutoforce made with scrapy and paramiko library
+# Port-Scanner-ssh-bruteforce
+Port Scanner + ssh bruteforce made with scrapy and paramiko library
 
 
 
